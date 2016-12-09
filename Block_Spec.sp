@@ -1,7 +1,4 @@
 #include <sourcemod>
-#include <smlib>
-#include <l4d2util>
-#include <l4d2_direct>
 #include <left4downtown>
 
 new Handle:BlockSpec_Timer;
